@@ -1,4 +1,6 @@
 # Sree Sahiti Pratti
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreepratti1E&show_icons=true)
+
 
 I am a B.S. Informatics (Data Science focus) student at the University of Washington with experience in analytics, AI-assisted dashboard workflows, product-oriented research, and data systems.
 
