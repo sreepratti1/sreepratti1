@@ -1,130 +1,88 @@
-# Sree Pratti
-I am an Informatics (Data Science) undergraduate at the University of Washington with experience building AI-powered applications, data pipelines, analytics dashboards, and backend systems. My interests include information retrieval, machine learning, trust and safety, and building scalable, user-centered data products.
+# Sree Sahiti Pratti
+
+I am an Informatics undergraduate at the University of Washington with a focus in Data Science. I have experience across data analytics, AI-powered tools, dashboards, and product-oriented systems, with interests in machine learning, information systems, and user-centered data products. :contentReference[oaicite:1]{index=1}
 
 Seattle, WA  
-University of Washington — Informatics (Data Science Concentration)  
-Email: sreepratti@gmail.com  
+University of Washington — B.S. Informatics (Data Science)  
+Email: sreepratti03@gmail.com  
 LinkedIn: https://www.linkedin.com/in/sree-pratti  
-Portfolio: https://sreepratti.github.io  
 
 ---
 
-## Featured Projects
+## Education
+**University of Washington – Seattle**  
+Bachelor of Science in Informatics, Focus in Data Science  
+September 2023 – December 2026  
 
-### FashionFinder — Conversational Fashion Search and Recommendations
-A conversational information retrieval system that ranks fashion items based on user intent and iteratively refines results through dialogue.
-
-**Technologies:** Python, TF-IDF / BM25, Ranking Algorithms, LLM APIs, Gradio  
-
-**Key Contributions:**
-- Built a ranked retrieval pipeline over large-scale fashion review and item datasets
-- Designed a conversational interface for interactive recommendation refinement
-- Improved relevance scoring by analyzing how users queried and browsed items
-- Evaluated system performance using ranking-focused metrics such as Precision@k  
-
-Repository: https://github.com/sreepratti/fashion-finder
+Relevant coursework includes data structures and algorithms, databases and data modeling, advanced data science methods, search and recommendation systems, product and information systems, and client-side development. :contentReference[oaicite:2]{index=2}
 
 ---
 
-### Job Fraud Detection System — NLP and Trust & Safety
-A text classification system that identifies suspicious job postings and produces actionable trust and safety insights.
+## Experience and Projects
 
-**Technologies:** Python, TF-IDF, Logistic Regression, NLP, Exploratory Data Analysis  
-
-**Key Contributions:**
-- Analyzed job posting data to identify scam patterns and user risk signals
-- Trained and evaluated a classifier to flag potentially fraudulent listings
-- Translated model insights into concrete product and policy recommendations
-- Prioritized interpretability and real-world impact in model design  
-
-Repository: https://github.com/sreepratti/job-fraud-detection
+### Data Analytics and AI Intern — GoDaddy
+June 2025 – September 2025  
+- Built a GPT-powered insights assistant for AWS QuickSight dashboards to help analysts and product managers summarize metrics.
+- Automated reporting workflows using Python and SQL, reducing manual analysis time by approximately 30%.
+- Wrote early user stories, refined acceptance criteria, and participated in Agile sprints with product and engineering teams.
+- Conducted user interviews to validate assistant behavior and guide UX improvements. :contentReference[oaicite:3]{index=3}
 
 ---
 
-### Ecohome Analytics — Sustainability Insights and Dashboards
-Analytics and reporting work focused on making sustainability metrics understandable and actionable for stakeholders.
-
-**Technologies:** SQL, Data Modeling, Dashboards, Python  
-
-**Key Contributions:**
-- Designed analytics workflows and dashboards to support sustainability decision-making
-- Transformed raw data into stakeholder-friendly insights
-- Emphasized clarity, usability, and business relevance of metrics  
-
-Repository: https://github.com/sreepratti/ecohome-analytics
+### Analytics Intern — Ecohome.one LLC
+June 2024 – September 2024  
+- Analyzed energy and emissions data to identify user patterns and high-impact target segments.
+- Built dashboards and analytics tools to inform sustainability feature prioritization.
+- Delivered user-centered insights that influenced product requirements and roadmap decisions. :contentReference[oaicite:4]{index=4}
 
 ---
 
-### Cloud and Backend Systems Project
-A backend application demonstrating cloud-based data persistence, concurrency, and scalable system design.
-
-**Technologies:** Java, JDBC, PostgreSQL, AWS RDS, EC2, Multithreading  
-
-**Key Contributions:**
-- Built a stateless backend service connected to a managed relational database
-- Implemented database connectivity and transaction handling using JDBC
-- Designed concurrency handling through multithreading and database-level guarantees
-- Deployed and tested the system using AWS infrastructure concepts  
-
-Repository: (add link)
+### Job Fraud Detection System
+March 2025 – May 2025  
+- Analyzed job posting data to understand how scam listings appear and where users are most at risk.
+- Built a text-based classification model to flag suspicious job postings.
+- Translated insights into trust and safety recommendations to support safer product features. :contentReference[oaicite:5]{index=5}
 
 ---
 
-### Machine Learning and Data Science Coursework
-A collection of academic projects and experiments completed as part of University of Washington coursework.
-
-**Topics Include:**
-- Convolutional neural networks for image classification
-- Embeddings and similarity search
-- Model evaluation and error analysis
-- Data cleaning, feature engineering, and experimentation  
-
-Repository: https://github.com/sreepratti/ml-coursework
+### Fashion Forward Supply Chain Platform
+March 2025 – May 2025  
+- Conducted stakeholder interviews to identify transparency and data access gaps.
+- Defined system requirements including API integrations, IoT data ingestion, and multi-region support.
+- Built and validated a prototype to improve visibility into supply chain data. :contentReference[oaicite:6]{index=6}
 
 ---
 
-## Experience
-
-### AI and Data Science Intern — GoDaddy
-- Supported AI-driven initiatives through data analysis and experimentation
-- Contributed to model evaluation, data workflows, and insight generation
-- Collaborated with cross-functional teams to translate findings into product impact
-
-### Analytics Intern — Ecohome
-- Built dashboards and analytics pipelines to surface sustainability insights
-- Worked with stakeholders to refine metrics and reporting requirements
-- Reduced manual analysis through automated reporting workflows
+### Customer Spending Insights Dashboard
+March 2025 – May 2025  
+- Analyzed customer transaction patterns across spending categories.
+- Designed a Power BI dashboard to surface trends and support product decisions.
+- Presented insights in a story-driven format for cross-functional teams. :contentReference[oaicite:7]{index=7}
 
 ---
 
-## Technical Skills
-
-**Languages:** Python, Java, SQL  
-
-**Data and Machine Learning:**  
-Pandas, NumPy, scikit-learn, PyTorch, NLP, information retrieval (TF-IDF, BM25), CNNs, embeddings, model evaluation (Precision@k, nDCG)
-
-**Systems and Cloud:**  
-AWS (RDS, EC2), JDBC, PostgreSQL, multithreading, backend APIs, data persistence
-
-**Tools:**  
-Git, Jupyter, Gradio, Linux, BI and dashboarding tools
-
-**Product and Analytics:**  
-Exploratory data analysis, metrics-driven iteration, translating insights into product recommendations, user-centered design
+### Seattle Parking Data Analysis
+May 2024 – June 2024  
+- Merged and cleaned multiple city datasets using Python and SQL joins.
+- Performed preprocessing in Python and feature summaries in Excel.
+- Built an interactive Power BI dashboard to visualize trends and insights. :contentReference[oaicite:8]{index=8}
 
 ---
 
-## Current Focus
-- Strengthening evaluation and documentation for machine learning and information retrieval projects
-- Building polished demos and dashboards for portfolio projects
-- Preparing for software engineering and data science internship interviews
-- Deepening backend, systems, and cloud fundamentals
+### Nutrition Database
+September 2024 – November 2024  
+- Designed a relational database with a normalized schema for food items and nutrients.
+- Wrote SQL queries to aggregate and compare nutrient values across food groups. :contentReference[oaicite:9]{index=9}
 
 ---
 
-## Contact
-For internship opportunities, collaboration, or project discussions:
+## Skills
 
-Email: sreepratti@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sree-pratti
+**Languages:** Java, Python, SQL, JavaScript, Kotlin, HTML/CSS  
+**Data and AI Tools:** Power BI, Tableau, AWS QuickSight, Azure Data Studio, OpenAI API  
+**Other Skills:** User research, wireframing, prototyping, KPI tracking, ETL pipelines, data analysis :contentReference[oaicite:10]{index=10}
+
+---
+
+## Awards
+Placed 1st in the University of Washington Product Design Case Competition (team of five). :contentReference[oaicite:11]{index=11}
