@@ -1,61 +1,33 @@
-# Sree Sahiti Pratti
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreepratti1&show_icons=true)
-
-
-I am a B.S. Informatics (Data Science focus) student at the University of Washington with experience in analytics, AI-assisted dashboard workflows, product-oriented research, and data systems.
-
-Contact: sreepratti03@gmail.com | LinkedIn: https://www.linkedin.com/in/sree-pratti
-
-## Education
-University of Washington – Seattle  
-B.S. Informatics (Data Science focus), Sep 2023 – Dec 2026  
-Coursework: Product & Information Systems; Data Structures & Algorithms; Databases & Data Modeling; Client-Side Development; Advanced Methods in Data Science; Search and Recommendation Systems
-
-## Experience
-GoDaddy — Data Analytics and AI Intern (Jun 2025 – Sep 2025)
-- Built a GPT-powered QuickSight insights assistant to summarize dashboards for analysts and PMs
-- Automated reporting workflows using Python and SQL, reducing manual analysis time by 30%
-- Wrote early user stories, refined acceptance criteria, and participated in Agile sprints
-- Conducted user interviews to validate assistant behavior and guide UX improvements
-
-Ecohome.one LLC — Analytics Intern (Jun 2024 – Sep 2024)
-- Analyzed energy and emissions data to identify user patterns and high-impact target segments
-- Built dashboards and analytics tools to inform sustainability feature prioritization
-- Delivered user-centered insights that shaped product requirements and roadmap decisions
-
-Foster School of Business — Product Management Officer (May 2025 – Present)
-- Coordinated PM events with industry leaders, connecting 100+ students with professionals
-- Improved team workflow efficiency by implementing structured planning processes
-- Led workshops focused on user research, prototyping, and product thinking
-
-## Projects
-Note: Projects are currently being migrated from Google Colab / BI tools into GitHub repos with documentation and reproducible notebooks.
-
-Job Fraud Detection System (Mar 2025 – May 2025)
-- Text-based classification model to flag suspicious job postings
-- Translated findings into trust-and-safety recommendations
-
-Fashion Forward Supply Chain Platform (Mar 2025 – May 2025)
-- Stakeholder interviews to identify transparency and data-access gaps
-- Defined requirements including API integrations, IoT ingestion, and multi-region support
-- Built and validated a prototype for improved supply chain visibility
-
-Customer Spending Insights Dashboard (Mar 2025 – May 2025)
-- Analyzed transaction patterns across categories
-- Designed a Power BI dashboard to support product decisions
-
-Seattle Parking Data Analysis (May 2024 – Jun 2024)
-- Merged and cleaned city datasets using Python and SQL joins
-- Built an interactive Power BI dashboard to visualize trends and insights
-
-Nutrition Database (Sep 2024 – Nov 2024)
-- Designed a normalized relational schema for food items and nutrients
-- Wrote SQL queries to aggregate and compare nutrient values
-
-## Skills
-Languages: Java, Python, SQL, JavaScript, Kotlin, HTML/CSS  
-Tools: Tableau, Power BI, Azure Data Studio, AWS QuickSight, OpenAI API  
-Skills: User research, wireframing, prototyping, KPI tracking, ETL pipelines, data analysis
-
-## Awards
-1st Place — University of Washington Product Design Case Competition (team of 5)
+Sree Sahiti Pratti
+I’m an Informatics student at the University of Washington focusing on Data Science. My work focuses on building data-driven tools that help teams understand information, make decisions, and improve products.
+I’m particularly interested in analytics systems, AI-assisted workflows, and data visualization tools that make complex data easier to interact with.
+📧 sreepratti03@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/sree-pratti
+Education
+I am currently pursuing a Bachelor of Science in Informatics with a focus in Data Science at the University of Washington. My coursework has focused on topics such as data modeling, software development, recommendation systems, and product-oriented information systems.
+Some of the courses that have shaped my work include Databases & Data Modeling, Data Structures & Algorithms, Product & Information Systems, Client-Side Development, and Advanced Methods in Data Science.
+Experience
+GoDaddy
+During my internship at GoDaddy, I worked on tools that helped teams interact with analytics dashboards more efficiently. I contributed to building a GPT-powered insights assistant that summarized QuickSight dashboards for analysts and product managers.
+The goal of the project was to make it easier for teams to quickly understand key trends in their data without manually exploring multiple dashboards. I also helped automate parts of the reporting workflow using Python and SQL, which reduced the time spent on manual analysis.
+Ecohome
+At Ecohome, I worked with sustainability and energy data to help the team better understand user behavior and environmental impact. I analyzed datasets related to energy consumption and emissions and created dashboards that helped identify high-impact user segments.
+The insights from this work were used to inform product decisions and help prioritize sustainability-related features.
+Foster School of Business – Product Management
+As a Product Management Officer, I help organize events and workshops focused on product development and user-centered design. These events bring together students and industry professionals to discuss product thinking, research methods, and prototyping.
+Selected Projects
+Job Fraud Detection System
+This project explored how machine learning could be used to identify suspicious job postings. I built a text classification model that analyzed job descriptions and flagged listings that showed patterns commonly associated with fraudulent postings. The goal was to demonstrate how data-driven systems can support trust and safety efforts on digital platforms.
+Fashion Forward Supply Chain Platform
+This project focused on improving transparency in fashion supply chains. Through stakeholder interviews and research, I identified gaps in how supply chain information is shared and accessed. Based on these insights, I designed a platform concept that integrates APIs, IoT data, and regional infrastructure to provide better visibility across supply chain stages.
+Customer Spending Insights Dashboard
+In this project, I analyzed customer transaction data and created a Power BI dashboard to visualize spending patterns across categories. The dashboard was designed to help teams explore trends and identify potential opportunities for product and marketing decisions.
+Seattle Parking Data Analysis
+Using open datasets from the City of Seattle, I cleaned and combined multiple datasets using Python and SQL to analyze parking patterns. I then built an interactive dashboard to explore trends and better understand how parking resources are used across the city.
+Nutrition Database
+This project focused on designing a relational database for storing food and nutrient information. I created a normalized schema and wrote SQL queries to aggregate and compare nutritional values across different food items.
+Skills
+My technical work primarily involves Python, Java, SQL, and JavaScript, along with tools such as Power BI, Tableau, Azure Data Studio, AWS QuickSight, and the OpenAI API.
+I also have experience with data analysis, dashboard development, ETL pipelines, user research, and product prototyping.
+Awards
+1st Place — University of Washington Product Design Case Competition
