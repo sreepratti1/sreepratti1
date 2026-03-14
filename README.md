@@ -55,9 +55,9 @@ Relational database project designing a normalized schema for food and nutrient 
 
 ## GitHub Stats
 
-![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true)
+![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreepratti&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreepratti&layout=compact&theme=tokyonight)
 
 ---
 
