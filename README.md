@@ -1,33 +1,66 @@
-Sree Sahiti Pratti
-I’m an Informatics student at the University of Washington focusing on Data Science. My work focuses on building data-driven tools that help teams understand information, make decisions, and improve products.
-I’m particularly interested in analytics systems, AI-assisted workflows, and data visualization tools that make complex data easier to interact with.
-📧 sreepratti03@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/sree-pratti
-Education
-I am currently pursuing a Bachelor of Science in Informatics with a focus in Data Science at the University of Washington. My coursework has focused on topics such as data modeling, software development, recommendation systems, and product-oriented information systems.
-Some of the courses that have shaped my work include Databases & Data Modeling, Data Structures & Algorithms, Product & Information Systems, Client-Side Development, and Advanced Methods in Data Science.
-Experience
-GoDaddy
-During my internship at GoDaddy, I worked on tools that helped teams interact with analytics dashboards more efficiently. I contributed to building a GPT-powered insights assistant that summarized QuickSight dashboards for analysts and product managers.
-The goal of the project was to make it easier for teams to quickly understand key trends in their data without manually exploring multiple dashboards. I also helped automate parts of the reporting workflow using Python and SQL, which reduced the time spent on manual analysis.
-Ecohome
-At Ecohome, I worked with sustainability and energy data to help the team better understand user behavior and environmental impact. I analyzed datasets related to energy consumption and emissions and created dashboards that helped identify high-impact user segments.
-The insights from this work were used to inform product decisions and help prioritize sustainability-related features.
-Foster School of Business – Product Management
-As a Product Management Officer, I help organize events and workshops focused on product development and user-centered design. These events bring together students and industry professionals to discuss product thinking, research methods, and prototyping.
-Selected Projects
-Job Fraud Detection System
-This project explored how machine learning could be used to identify suspicious job postings. I built a text classification model that analyzed job descriptions and flagged listings that showed patterns commonly associated with fraudulent postings. The goal was to demonstrate how data-driven systems can support trust and safety efforts on digital platforms.
-Fashion Forward Supply Chain Platform
-This project focused on improving transparency in fashion supply chains. Through stakeholder interviews and research, I identified gaps in how supply chain information is shared and accessed. Based on these insights, I designed a platform concept that integrates APIs, IoT data, and regional infrastructure to provide better visibility across supply chain stages.
-Customer Spending Insights Dashboard
-In this project, I analyzed customer transaction data and created a Power BI dashboard to visualize spending patterns across categories. The dashboard was designed to help teams explore trends and identify potential opportunities for product and marketing decisions.
-Seattle Parking Data Analysis
-Using open datasets from the City of Seattle, I cleaned and combined multiple datasets using Python and SQL to analyze parking patterns. I then built an interactive dashboard to explore trends and better understand how parking resources are used across the city.
-Nutrition Database
-This project focused on designing a relational database for storing food and nutrient information. I created a normalized schema and wrote SQL queries to aggregate and compare nutritional values across different food items.
-Skills
-My technical work primarily involves Python, Java, SQL, and JavaScript, along with tools such as Power BI, Tableau, Azure Data Studio, AWS QuickSight, and the OpenAI API.
-I also have experience with data analysis, dashboard development, ETL pipelines, user research, and product prototyping.
-Awards
-1st Place — University of Washington Product Design Case Competition
+# Hi, I'm Sree Sahiti Pratti 
+
+Informatics (Data Science) student at the **University of Washington**
+
+I’m interested in building **data-driven tools, analytics systems, and AI-assisted workflows** that help teams understand data and make better decisions. My work often combines **data analysis, dashboards, and product-focused problem solving**.
+
+**Email:** sreepratti03@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/sree-pratti  
+
+---
+
+## Experience
+
+### GoDaddy — Data Analytics & AI Intern
+
+At GoDaddy, I worked on tools designed to make analytics dashboards easier for teams to interpret and use. I contributed to building a GPT-powered assistant that summarized Amazon QuickSight dashboards, allowing analysts and product managers to quickly understand key trends without manually exploring multiple charts.
+
+I also helped automate reporting workflows using Python and SQL, reducing the time teams spent on manual analysis by about 30%. Throughout the project, I collaborated with analysts and product teams to refine how insights were surfaced and participated in Agile development by helping define user stories and testing assistant outputs.
+
+---
+
+### Ecohome — Data Analytics Intern
+
+At Ecohome, I worked with sustainability and energy datasets to better understand patterns in energy consumption and emissions. My work focused on analyzing large datasets to identify high-impact user segments and uncover trends that could guide product decisions.
+
+I built dashboards that helped visualize sustainability metrics and behavioral trends, allowing the team to explore how different user groups interacted with the platform. These insights helped inform feature prioritization and discussions around future product development.
+
+---
+
+### Foster School of Business — Product Management Officer
+
+As a Product Management Officer, I help organize events and workshops that introduce students to product management and product thinking. These events connect students with industry professionals and provide opportunities to learn about user research, prototyping, and product strategy.
+
+I’ve helped coordinate events that brought together over 100 students and professionals, and I’ve contributed to workshops focused on how product teams approach problem solving and user-centered design.
+
+
+## Featured Projects
+
+### Job Fraud Detection System
+Machine learning model that identifies suspicious job postings using text classification techniques.
+
+### Fashion Forward Supply Chain Platform
+Platform concept designed to improve transparency across fashion supply chains through data integrations and IoT ingestion.
+
+### Customer Spending Insights Dashboard
+Power BI dashboard analyzing customer transaction patterns to support product and marketing decisions.
+
+### Seattle Parking Data Analysis
+Merged and analyzed Seattle city datasets using Python and SQL and built a dashboard exploring parking trends.
+
+### Nutrition Database
+Relational database project designing a normalized schema for food and nutrient data.
+
+---
+
+## GitHub Stats
+
+![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true)
+
+---
+
+## Achievements
+
+**1st Place — University of Washington Product Design Case Competition**
