@@ -36,39 +36,39 @@ I’ve helped coordinate events that brought together over 100 students and prof
 
 ## Featured Projects
 
-##Capstone Project
+**Capstone Project
 
-##Healthcare Visit Preparation Assistant
+**Healthcare Visit Preparation Assistant
 An AI-powered web application designed to help users prepare for medical visits by generating personalized questions and simplifying complex health information.
 
-##Overview
+**Overview
 This project focuses on improving how patients communicate with healthcare providers by helping them organize their thoughts, understand their symptoms, and ask more effective questions during appointments.
 
-##Goals
+**Goals
 Help users feel more confident and prepared before medical visits
 Make medical information easier to understand
 Use AI to generate structured, relevant questions from user input
 
-##Process
+**Process
 
-##Team Contributions
+**Team Contributions
 Defined problem space and identified target users
 Scoped MVP features and prioritized core functionality
 Iterated on design based on feedback from peers and instructors
 
-##My Contributions (AI Development)
+**My Contributions (AI Development)
 Led development of AI-powered question generation features
 Designed prompt logic to transform user input into structured outputs
 Integrated AI responses into the front-end using React and Firebase
 Tested and refined outputs to improve clarity and relevance
 
-##Takeaways
+**Takeaways
 Learned how to design AI features that are practical and user-focused
 Improved ability to structure inputs for more reliable AI outputs
 Gained experience balancing technical implementation with product design
 Strengthened collaboration between engineering and design decisions
 
-##Next Steps
+**Next Steps
 Improve accuracy and consistency of AI-generated responses
 Add deeper personalization based on user history
 Conduct user testing and incorporate feedback
